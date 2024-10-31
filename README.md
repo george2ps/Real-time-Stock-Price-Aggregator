@@ -24,8 +24,8 @@ This application is a Laravel-based system that tracks real-time stock prices an
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/stock-price-tracking.git
-   cd stock-price-tracking
+   git clone https://github.com/george2ps/Real-time-Stock-Price-Aggregator.git
+   cd your project directory
    ```
 
 2. Install dependencies using Composer:
