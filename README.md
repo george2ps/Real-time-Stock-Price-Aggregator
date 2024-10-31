@@ -180,14 +180,13 @@ php artisan test
 The tests include:
 
 - Fetching stock prices from cache and database.
-- Handling API rate limits and exceptions.
 
 ## Project Structure
 
 - **`app/Console/Commands/FetchStockPrices.php`**: Command to fetch real-time stock prices.
 - **`app/Models/StockPrice.php`**: Model representing the stock prices table.
-- **`app/Http/Livewire/StockReport.php`**: Livewire component for displaying stock reports.
-- **`database/seeders/StockPriceSeeder.php`**: Seeder to populate initial stock data.
+- **`app/Http/Livewire/StockPricesReport.php`**: Livewire component for displaying stock reports.
+- **`database/seeders/StockPricesSeeder.php`**: Seeder to populate initial stock data.
 - **`app/Http/Controllers/StockPricesController.php`**: Controller to handle API requests for stock prices.
 
 ## Technologies Used
