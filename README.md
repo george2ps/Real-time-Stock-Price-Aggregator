@@ -193,6 +193,8 @@ The tests include:
 
 - **Laravel**: PHP framework for building the application.
 - **Livewire**: Used for real-time UI updates.
+- **Bootstrap 5**: Used for UI styling.
+- **Fontawesome 6**: Used for UI styling.
 - **Alpha Vantage API**: Provides real-time stock price data.
 
 ## Error Handling
