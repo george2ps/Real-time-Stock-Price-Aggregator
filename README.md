@@ -1,4 +1,4 @@
-# Stock Price Tracking Application
+# Real-time Stock Price Aggregator
 
 This application is a Laravel-based system that tracks real-time stock prices and stores them in a database. It fetches stock data from the Alpha Vantage API, updates the database with the latest prices, calculates the percentage change, and provides a reporting interface to view the stock price history.
 
